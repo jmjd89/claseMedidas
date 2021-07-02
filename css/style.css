@@ -1,0 +1,17 @@
+/* Las siguientes líneas reinician los estilos de todas las
+etiquetas */
+*{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: red;
+    width: 600px;
+    height: 500px;
+}
+
+p{
+    font-size: 16px;
+}
